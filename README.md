@@ -22,6 +22,6 @@ Please submit pull requests to us for make this better.
 
 See the list of contributors who participated in this project.
 
-License
+### License
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
