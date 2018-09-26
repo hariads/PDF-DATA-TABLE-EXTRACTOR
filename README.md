@@ -19,8 +19,8 @@ nuget package explorer
 Please submit pull requests to us for make this better.
 
 ### Authors
-Bharath Surampudi
-Mohammed Yunus
+Bharath Surampudi,
+Mohammed Yunus,
 Hariharan A
 
 ### License
