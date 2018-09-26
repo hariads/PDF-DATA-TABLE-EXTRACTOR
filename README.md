@@ -5,7 +5,7 @@ we provided the presentations videos an screen shots of the demo in github.
 ## Getting Started
 Clone or Download the project files and then extract the nuget package from PDFDataTableExtractor zip.
 Install the PDFDataTableExtractor nuget package in UiPath Studio.
-Give input as string(Extracted from OCR)
+Give input as string(Extracted from OCR) to the activity.
 
 ### Prerequisites
 .NET
