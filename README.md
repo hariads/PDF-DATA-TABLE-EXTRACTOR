@@ -1,6 +1,6 @@
 # PDF-DATA-TABLE-EXTRACTOR
-We are developing an Activity that takes tabular data in PDF to data table to help enterprise business to leverage their data in PDF to support there ERP, CRM or Big Data initiatives
-we provided the presentations videos an screen shots of the demo in github.
+We developed an Activity that takes tabular data in PDF format and converts it into data table (structured data form) to help enterprise business to leverage their data in PDF format and  support their ERP, CRM or Big Data initiatives.
+we provided the presentations videos an screen shots of the demo in github repository.
 
 ## Getting Started
 Clone or Download the project files and then extract the nuget package from PDFDataTableExtractor zip.
@@ -11,6 +11,7 @@ Give input as string(Extracted from OCR) to the activity.
 .NET
 visual studio
 nuget package explorer
+UiPath Studios
 
 ### Built With
 .NET 
@@ -22,7 +23,3 @@ Please submit pull requests to us for make this better.
 Bharath Surampudi,
 Mohammed Yunus,
 Hariharan A
-
-### License
-This project is licensed under the MIT License - see the LICENSE.md file for details
-
