@@ -19,8 +19,9 @@ nuget package explorer
 Please submit pull requests to us for make this better.
 
 ### Authors
-
-See the list of contributors who participated in this project.
+Bharath Surampudi
+Mohammed Yunus
+Hariharan A
 
 ### License
 This project is licensed under the MIT License - see the LICENSE.md file for details
