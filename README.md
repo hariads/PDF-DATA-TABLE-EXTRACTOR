@@ -23,3 +23,6 @@ Please submit pull requests to us for make this better.
 Bharath Surampudi,
 Mohammed Yunus,
 Hariharan A
+
+### License
+This project is licensed under the MIT License - see the LICENSE.md file for details
